@@ -279,6 +279,7 @@ form h4 {
   border-radius: 0;
   border-top-left-radius: var(--borderRadius);
   border-bottom-left-radius: var(--borderRadius);
+  outline: none;
 }
 .form-control .btn {
   border-radius: 0;
